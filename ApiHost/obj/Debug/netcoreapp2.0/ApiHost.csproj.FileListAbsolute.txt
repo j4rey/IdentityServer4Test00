@@ -1,0 +1,11 @@
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\bin\Debug\netcoreapp2.0\ApiHost.deps.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\bin\Debug\netcoreapp2.0\ApiHost.runtimeconfig.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\bin\Debug\netcoreapp2.0\ApiHost.runtimeconfig.dev.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\bin\Debug\netcoreapp2.0\ApiHost.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\bin\Debug\netcoreapp2.0\ApiHost.pdb
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.csprojResolveAssemblyReference.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.csproj.CoreCompileInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.AssemblyInfoInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.AssemblyInfo.cs
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\ApiHost\obj\Debug\netcoreapp2.0\ApiHost.pdb

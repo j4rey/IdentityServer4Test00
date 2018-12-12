@@ -1,0 +1,11 @@
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\bin\Debug\netcoreapp2.0\MVCClient.deps.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\bin\Debug\netcoreapp2.0\MVCClient.runtimeconfig.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\bin\Debug\netcoreapp2.0\MVCClient.runtimeconfig.dev.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\bin\Debug\netcoreapp2.0\MVCClient.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\bin\Debug\netcoreapp2.0\MVCClient.pdb
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.csprojResolveAssemblyReference.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.csproj.CoreCompileInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.AssemblyInfoInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.AssemblyInfo.cs
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\MVCClient\obj\Debug\netcoreapp2.0\MVCClient.pdb

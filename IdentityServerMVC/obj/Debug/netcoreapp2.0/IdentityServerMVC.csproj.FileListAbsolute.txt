@@ -1,0 +1,12 @@
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\bin\Debug\netcoreapp2.0\IdentityServerMVC.deps.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\bin\Debug\netcoreapp2.0\IdentityServerMVC.runtimeconfig.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\bin\Debug\netcoreapp2.0\IdentityServerMVC.runtimeconfig.dev.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\bin\Debug\netcoreapp2.0\IdentityServerMVC.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\bin\Debug\netcoreapp2.0\IdentityServerMVC.pdb
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.csprojResolveAssemblyReference.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.csproj.CoreCompileInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.AssemblyInfoInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.AssemblyInfo.cs
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\IdentityServerMVC.pdb
+C:\Users\NEAO\source\repos\IdentityServer4Test00\IdentityServerMVC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

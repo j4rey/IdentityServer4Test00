@@ -1,0 +1,11 @@
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.deps.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.runtimeconfig.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.runtimeconfig.dev.json
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\bin\Debug\netcoreapp2.0\JavaScriptClient.pdb
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.csprojResolveAssemblyReference.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.csproj.CoreCompileInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.AssemblyInfoInputs.cache
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.AssemblyInfo.cs
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.dll
+C:\Users\NEAO\source\repos\IdentityServer4Test00\JavaScriptClient\obj\Debug\netcoreapp2.0\JavaScriptClient.pdb
